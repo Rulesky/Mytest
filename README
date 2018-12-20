@@ -4,7 +4,7 @@ The whole purpose is to test knowledge of adding
 two external file into one program. 
 Zadatak1Parcial.c includes stdio.h and call for 
 exernal file, and Zadatak1Parcial.h contains definitions
-of the program, etc #define PI 3.13 ( order , parameter ).
+of the program, etc #define PI 3.14ave been 32 additions and 1 deletions.  ( order , parameter ).
 It's true that if you compile and build ZadatakParcial.c 
 & ZadatakParcial.h they work independently (but linked together
 on execution).
