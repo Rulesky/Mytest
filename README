@@ -1,1 +1,15 @@
-Simple C program 
+C program exercice to add two files, in this case 
+Zadatak1Parcial.c & ZadatakParcial.h .
+The whole purpose is to test knowledge of adding 
+two external file into one program. 
+Zadatak1Parcial.c includes stdio.h and call for 
+exernal file, and Zadatak1Parcial.h contains definitions
+of the program, etc #define PI 3.13 ( order , parameter ).
+It's true that if you compile and build ZadatakParcial.c 
+& ZadatakParcial.h they work independently (but linked together
+on execution).
+
+The main file Zadatak1.c works as one piece, because 
+both files were written in one source code. That was 
+all purpouse of exercise.
+
